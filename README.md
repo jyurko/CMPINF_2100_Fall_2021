@@ -10,3 +10,8 @@ Repository for weekly in-lecture programming examples.
 * Intro to iteration with for-loops
 
 ## Week 02
+* Generating random numbers with the random module
+* Iteration with for-loops and list comprehensions
+* Writing and applying user defined functions
+* Simulation to show the Centrl Limit Theorem
+* Simulation to estimate the standard error on the mean
