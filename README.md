@@ -14,4 +14,12 @@ Repository for weekly in-lecture programming examples.
 * Iteration with for-loops and list comprehensions
 * Writing and applying user defined functions
 * Simulation to show the Centrl Limit Theorem
-* Simulation to estimate the standard error on the mean
+* Simulation to estimate the standard error on the mean with random and lists
+
+## Week 03
+* Class, attributes, methods, and modify-in-place  
+* Side effects
+* Exceptions and debugging within Jupyter notebooks  
+* Intro to NumPy arrays: creation, attributes, methods, concatenate, reshape  
+* Random number generation with NumPy  
+* Simulation to estimate the standard error on the mean with NumPy
