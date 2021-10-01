@@ -32,6 +32,7 @@ Repository for weekly in-lecture programming examples.
 * Introduction to joining (merging) DataFrames
 
 ## Week 05
+* Subsetting rows based on strings using .str.contains()
 * Unique values and number of unique values 
 * Basic plotting with Pandas - bar charts, boxplots, and scatter plots
 * .apply() method 
