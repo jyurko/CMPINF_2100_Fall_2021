@@ -23,3 +23,17 @@ Repository for weekly in-lecture programming examples.
 * Intro to NumPy arrays: creation, attributes, methods, concatenate, reshape  
 * Random number generation with NumPy  
 * Simulation to estimate the standard error on the mean with NumPy
+
+## Week 04
+* Introduction to Pandas Series and DataFrames
+* Object creation, basic attributes, and methods
+* Selecting columns and rows (filtering)
+* Introduction to exploring data with Pandas
+* Introduction to joining (merging) DataFrames
+
+## Week 05
+* Unique values and number of unique values 
+* Basic plotting with Pandas - bar charts, boxplots, and scatter plots
+* .apply() method 
+* Introduction to missing values
+* SPLIT-APPLY-COMBINE with .groupby() and .aggregate() to summarize data
